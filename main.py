@@ -43,6 +43,7 @@ def preprocess_data(X):
 
     return transformer
 
+
 def train_model(X, y):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
@@ -55,6 +56,7 @@ def train_model(X, y):
     y_pred = model.predict(X_test)
     mse = mean_squared_error(y_test, y_pred)
     return model, mse
+
 
 if __name__ == "__main__":
     X, y = load_data()

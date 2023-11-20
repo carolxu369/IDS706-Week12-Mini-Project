@@ -46,7 +46,7 @@ This project uses MLflow for tracking experiments. To view the experiments:
 2. **Viewing the Results**
 
    Open your web browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000). Here, you can view the logged experiments, including parameters, metrics, and model artifacts.
-   [!ml flow](pic.png)
+   ![ml flow](pic.png)
 
 ## Project Structure
 
