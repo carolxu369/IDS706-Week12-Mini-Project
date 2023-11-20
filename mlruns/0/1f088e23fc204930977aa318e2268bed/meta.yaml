@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carolxu/Documents/school/Duke/IDS706%20Data%20Engineering/IDS%20706/IDS706-Week12-Mini-Project/mlruns/0/1f088e23fc204930977aa318e2268bed/artifacts
+end_time: 1700448691377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f088e23fc204930977aa318e2268bed
+run_name: flawless-loon-17
+run_uuid: 1f088e23fc204930977aa318e2268bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700448689763
+status: 3
+tags: []
+user_id: carolxu

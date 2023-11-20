@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carolxu/Documents/school/Duke/IDS706%20Data%20Engineering/IDS%20706/IDS706-Week12-Mini-Project/mlruns/0/d4e30bc5ded44e3a9b7fc5430c1ec576/artifacts
+end_time: 1700448086087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4e30bc5ded44e3a9b7fc5430c1ec576
+run_name: fearless-wren-668
+run_uuid: d4e30bc5ded44e3a9b7fc5430c1ec576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700448086039
+status: 4
+tags: []
+user_id: carolxu

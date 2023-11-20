@@ -1,0 +1,11 @@
+{
+    "name": "MLflow ML Project",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-python.python"
+    ]
+}

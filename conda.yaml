@@ -1,0 +1,13 @@
+name: mlflow-california-housing
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - pandas
+  - numpy
+  - mlflow
+  - pip
+  - pip:
+    - flask
+    - pytest

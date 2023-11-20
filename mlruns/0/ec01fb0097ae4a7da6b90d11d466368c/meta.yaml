@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carolxu/Documents/school/Duke/IDS706%20Data%20Engineering/IDS%20706/IDS706-Week12-Mini-Project/mlruns/0/ec01fb0097ae4a7da6b90d11d466368c/artifacts
+end_time: 1700448441844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec01fb0097ae4a7da6b90d11d466368c
+run_name: legendary-stork-344
+run_uuid: ec01fb0097ae4a7da6b90d11d466368c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700448440227
+status: 3
+tags: []
+user_id: carolxu
