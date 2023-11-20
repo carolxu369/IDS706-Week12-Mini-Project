@@ -1,6 +1,5 @@
 import mlflow
 import mlflow.sklearn
-import pandas as pd
 from sklearn.datasets import fetch_openml
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -10,11 +9,13 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
+
 def load_data():
     housing = fetch_openml(name="house_prices", as_frame=True, parser='auto')
     X = housing.data
     y = housing.target
     return X, y
+
 
 def preprocess_data(X):
     # Identify categorical and numerical columns
